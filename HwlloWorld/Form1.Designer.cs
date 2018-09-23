@@ -1,6 +1,6 @@
 ﻿namespace HwlloWorld
 {
-    partial class Form1
+    partial class testing
     {
         /// <summary>
         /// Required designer variable.
@@ -50,7 +50,7 @@
             this.Design.UseVisualStyleBackColor = true;
             this.Design.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // testing
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -58,8 +58,8 @@
             this.Controls.Add(this.Design);
             this.Controls.Add(this.textBox1);
             this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "testing";
+            this.Text = "First Project";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

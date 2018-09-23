@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HwlloWorld
 {
-    public partial class Form1 : Form
+    public partial class testing : Form
     {
-        public Form1()
+        public testing()
         {
             InitializeComponent();
         }
@@ -24,7 +24,7 @@ namespace HwlloWorld
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
